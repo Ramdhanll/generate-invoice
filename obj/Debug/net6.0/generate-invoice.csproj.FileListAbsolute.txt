@@ -1,0 +1,15 @@
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\bin\Debug\net6.0\generate-invoice.exe
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\bin\Debug\net6.0\generate-invoice.deps.json
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\bin\Debug\net6.0\generate-invoice.runtimeconfig.json
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\bin\Debug\net6.0\generate-invoice.dll
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\bin\Debug\net6.0\generate-invoice.pdb
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\generate-invoice.csproj.AssemblyReference.cache
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\generate-invoice.GeneratedMSBuildEditorConfig.editorconfig
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\generate-invoice.AssemblyInfoInputs.cache
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\generate-invoice.AssemblyInfo.cs
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\generate-invoice.csproj.CoreCompileInputs.cache
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\generate-invoice.dll
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\refint\generate-invoice.dll
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\generate-invoice.pdb
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\generate-invoice.genruntimeconfig.cache
+C:\Ramadhani\Metrodata\MCC\Segment 1\Programming\generate-invoice\obj\Debug\net6.0\ref\generate-invoice.dll
